@@ -23,14 +23,14 @@ We chose Trello as a task manager and set up the workspace.
 
 ## Other tasks
 
-We have subscribed to several game development, and content making channels, including next ones:
+We have subscribed to several game development and content making channels including next ones:
 
 ![Task manager](https://raw.githubusercontent.com/YAGoOaR/Images/main/GameDev/lab1/subs.png)
 
 
-We have selected various plugins and content from unity asset store, including the specified:
+We have selected various plugins and content from unity asset store including the specified:
 
 ![Task manager](https://raw.githubusercontent.com/YAGoOaR/Images/main/GameDev/lab1/assets.png)
 
 The main source of 3D content is Yegor Grybenko (team member) that will make models.
-As a source of audio content, we will use the same asset store.
+As a source of audio content we will use the same asset store.
