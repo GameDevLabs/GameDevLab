@@ -19,7 +19,22 @@ We chose Trello as a task manager and set up the workspace.
 
 ## Chosen games analysis
 
-> Залиште тут у вільному форматі розбір вашої обраної гри на логічні компоненти основного та мета геймплею. Не забудьте зазначити назву гри, аби перевіряючий міг зробити зауваження у разі необхідності та обрати собі гру на вихідні.
+### Game mechanics in Civilization 6
+
+**Unit movement**
+In order to move the unit you need to select the unit and the desired cell, the units are moved by as many as there are enough movement points, each cell spends a certain number of points, which depends on the terrain of the cell and its improvements
+
+**City establishment**
+The player can establish a new city, for this he must create a unit "settler" and move it to the place where he wants to found a city, this place must be remote and more than 3 cells from any other city
+
+**City improvement**
+The player can build improvements on the cells for this he needs to have a "builder" unit and the technology needed for the desired improvement, for one improvement the builder spends one construction charge
+
+**City units, projects and buildings building**
+To build anything in the city you need to choose a unit / project / building in the list of available items, and wait for a certain number of moves which depends on how many production points this thing costs and how many production points the city has
+
+**Tribes**
+On the map randomly arranged tribes. The player gets a random bonus by moving any unit to this settlement
 
 ## Other tasks
 
@@ -34,3 +49,11 @@ We have selected various plugins and content from unity asset store including th
 
 The main source of 3D content is Yegor Grybenko (team member) that will make models.
 As a source of audio content we will use the same asset store.
+
+**We considered the following genres in the course of the work:**
+- turn-based strategies 
+- simulators 
+- real-time
+- strategies
+- shooters
+- RPGs
