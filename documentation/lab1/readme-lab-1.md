@@ -1,11 +1,11 @@
 # Team and project
 ## Team code and name
-Г2 GameDevLabs
+Г2 "KrYaSan"
 
-## Team members list 
-1. Grybenko Yegor - **team leader**
-1. Yaroshchuk Danyil
-1. Levak Oleksandr
+## Team members list
+1. Grybenko Yegor IP-93 - [YAGoOaR](https://github.com/YAGoOaR)  -  **team leader**
+1. Yaroshchuk Danyil IT-91 - [Kronuc](https://github.com/kronuc)
+1. Levak Oleksandr IT-91 - [s-any-ok](https://github.com/s-any-ok)
 
 ## Unity version
 2020.3.28f1
